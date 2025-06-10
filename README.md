@@ -58,6 +58,7 @@ Use `EPUB`, not `OEPBS`, for the content directory, if you want to use the inclu
   - media-overlays
   - extended-descriptions
   - math
+- **For books NOT going in the epubtest.org grid**, use a unique subject, e.g. `advanced-read-aloud` or `experimental-history`
 - the title goes in `dc:title`, e.g.
 ```<dc:title>title</dc:title>```
 - the topic goes in `dc:subject`, e.g.
